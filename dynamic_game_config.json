@@ -1,0 +1,24 @@
+{
+  "id": 151,
+  "icon": "/dynamic_game_hero_tower/icon.jpg",
+  "image": "https://res.cheerfulgames2023.com/sg/res/jpg/db/a2/6246ecfb2115b8e8c526d5ee93e6-62k9.jpg?x-oss-process=style/hq",
+  "jump_type": "webview",
+  "jump_info": {
+    "url": "http://127.0.0.1:%d/dynamic_game_hero_tower/index.html"
+  },
+  "publisher": "minigame",
+  "title": "Hero Tower",
+  "category": "Arcade",
+  "play": 20713,
+  "is_horizontal": 0,
+  "banner_info": {
+    "url": "https://res.cheerfulgames2023.com/sg/res/jpg/c3/87/284c6d09b3cf47ceb488269f9d7f-5rz3.jpg?x-oss-process=style/hq"
+  },
+  "vertical_info": {
+    "url": "/dynamic_game_hero_tower/vertical.jpg"
+  },
+  "desc": "Tower Defense is the interesting combination of action, strategy and puzzle game in mobile",
+  "pictures": [
+    "https://res.cheerfulgames2023.com/sg/res/jpg/c3/87/284c6d09b3cf47ceb488269f9d7f-5rz3.jpg?x-oss-process=style/hq"
+  ]
+}
