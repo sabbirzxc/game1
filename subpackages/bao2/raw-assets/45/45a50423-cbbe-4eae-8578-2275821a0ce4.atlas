@@ -1,0 +1,104 @@
+
+DaoJv_spine.png
+size: 569,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJ_dun
+  rotate: false
+  xy: 115, 283
+  size: 200, 273
+  orig: 200, 274
+  offset: 0, 1
+  index: -1
+DJ_jian
+  rotate: false
+  xy: 2, 179
+  size: 111, 377
+  orig: 111, 379
+  offset: 0, 1
+  index: -1
+EffectWeapon (1)
+  rotate: false
+  xy: 471, 314
+  size: 65, 62
+  orig: 240, 240
+  offset: 97, 97
+  index: -1
+EffectWeapon (10)
+  rotate: true
+  xy: 2, 28
+  size: 149, 129
+  orig: 240, 240
+  offset: 47, 61
+  index: -1
+EffectWeapon (11)
+  rotate: true
+  xy: 278, 2
+  size: 136, 127
+  orig: 240, 240
+  offset: 61, 62
+  index: -1
+EffectWeapon (12)
+  rotate: false
+  xy: 412, 151
+  size: 126, 125
+  orig: 240, 240
+  offset: 72, 64
+  index: -1
+EffectWeapon (2)
+  rotate: false
+  xy: 471, 378
+  size: 84, 80
+  orig: 240, 240
+  offset: 87, 88
+  index: -1
+EffectWeapon (3)
+  rotate: false
+  xy: 468, 460
+  size: 99, 96
+  orig: 240, 240
+  offset: 78, 78
+  index: -1
+EffectWeapon (4)
+  rotate: false
+  xy: 407, 32
+  size: 120, 117
+  orig: 240, 240
+  offset: 64, 64
+  index: -1
+EffectWeapon (5)
+  rotate: false
+  xy: 280, 152
+  size: 130, 124
+  orig: 240, 240
+  offset: 56, 59
+  index: -1
+EffectWeapon (6)
+  rotate: false
+  xy: 133, 2
+  size: 143, 136
+  orig: 240, 240
+  offset: 47, 52
+  index: -1
+EffectWeapon (7)
+  rotate: false
+  xy: 133, 140
+  size: 145, 141
+  orig: 240, 240
+  offset: 46, 50
+  index: -1
+EffectWeapon (8)
+  rotate: false
+  xy: 317, 413
+  size: 149, 143
+  orig: 240, 240
+  offset: 44, 50
+  index: -1
+EffectWeapon (9)
+  rotate: false
+  xy: 317, 278
+  size: 152, 133
+  orig: 240, 240
+  offset: 43, 59
+  index: -1

@@ -1,0 +1,254 @@
+{
+  "超级塔防": {
+    "key": "超级塔防",
+    "en-us": "Goblin Slayer",
+    "id": "Pemburu Goblin",
+    "pt-br": "Matador de Goblins",
+    "vi": "Tháp Phòng Siêu Cấp"
+  },
+  "选关": {
+    "key": "选关",
+    "en-us": "Levels",
+    "id": "Level",
+    "pt-br": "Níveis",
+    "vi": "Chọn màn"
+  },
+  "每日签到": {
+    "key": "每日签到",
+    "en-us": "Daily Check In",
+    "id": "Check-in Harian",
+    "pt-br": "Check-in Diário",
+    "vi": "Điểm danh hằng ngày"
+  },
+  "开始游戏": {
+    "key": "开始游戏",
+    "en-us": "Start game",
+    "id": "Mulai game",
+    "pt-br": "Iniciar jogo",
+    "vi": "Bắt đầu chơi"
+  },
+  "失败": {
+    "key": "失败",
+    "en-us": "Defeat",
+    "id": "Kalah",
+    "pt-br": "Derrotado",
+    "vi": "Thua"
+  },
+  "重新挑战": {
+    "key": "重新挑战",
+    "en-us": "Challenge again",
+    "id": "Tantang lagi",
+    "pt-br": "Desafiar de novo",
+    "vi": "Thử thách lại"
+  },
+  "放弃": {
+    "key": "放弃",
+    "en-us": "Dismiss",
+    "id": "Menyerah",
+    "pt-br": "Desistir",
+    "vi": "Bỏ qua"
+  },
+  "签到": {
+    "key": "签到",
+    "en-us": "Check in",
+    "id": "Check-in",
+    "pt-br": "Check-in",
+    "vi": "Điểm danh"
+  },
+  "普通签到": {
+    "key": "普通签到",
+    "en-us": "Check in",
+    "id": "Check-in",
+    "pt-br": "Check-in",
+    "vi": "Điểm danh"
+  },
+  "第%s天": {
+    "key": "第%s天",
+    "en-us": "Day %s",
+    "id": "Hari %s",
+    "pt-br": "Dia %s",
+    "vi": "Ngày %s"
+  },
+  "攻击": {
+    "key": "攻击",
+    "en-us": "Attack",
+    "id": "Serangan",
+    "pt-br": "Ataque",
+    "vi": "Công"
+  },
+  "在线奖励": {
+    "key": "在线奖励",
+    "en-us": "Online reward",
+    "id": "Hadiah online",
+    "pt-br": "Recompensa online",
+    "vi": "Thưởng trực tuyến"
+  },
+  "领取": {
+    "key": "领取",
+    "en-us": "Claim",
+    "id": "Klaim",
+    "pt-br": "Reivindicar",
+    "vi": "Nhận"
+  },
+  "使用": {
+    "key": "使用",
+    "en-us": "Use",
+    "id": "Gunakan",
+    "pt-br": "Usar",
+    "vi": "Dùng"
+  },
+  "解锁": {
+    "key": "解锁",
+    "en-us": "Unlock",
+    "id": "Buka",
+    "pt-br": "Desbloquear",
+    "vi": "Mở khóa"
+  },
+  "试用中": {
+    "key": "试用中",
+    "en-us": "Trying",
+    "id": "Mencoba",
+    "pt-br": "Testando",
+    "vi": "Đang dùng thử"
+  },
+  "跳过": {
+    "key": "跳过",
+    "en-us": "Skip",
+    "id": "Lewati",
+    "pt-br": "Pular",
+    "vi": "Bỏ qua"
+  },
+  "第%s关": {
+    "key": "第%s关",
+    "en-us": "Level %s",
+    "id": "Level %s",
+    "pt-br": "Nível %s",
+    "vi": "Màn %s"
+  },
+  "强者召唤": {
+    "key": "强者召唤",
+    "en-us": "Summon Hero",
+    "id": "Panggil Hero",
+    "pt-br": "Invoque um herói",
+    "vi": "Triệu hồi dũng sĩ"
+  },
+  "所向披靡": {
+    "key": "所向披靡",
+    "en-us": "Peerless Power",
+    "id": "Kekuatan Tanpa Tanding",
+    "pt-br": "Poder Inigualável",
+    "vi": "Đánh đâu thắng đó"
+  },
+  "游戏胜利": {
+    "key": "游戏胜利",
+    "en-us": "You Win",
+    "id": "Kamu Menang",
+    "pt-br": "Você venceu",
+    "vi": "Thắng trò chơi"
+  },
+  "领取金币": {
+    "key": "领取金币",
+    "en-us": "Claim",
+    "id": "Klaim",
+    "pt-br": "Reivindicar",
+    "vi": "Nhận xu"
+  },
+  "胜利": {
+    "key": "胜利",
+    "en-us": "Victory",
+    "id": "Menang",
+    "pt-br": "Vitória",
+    "vi": "Thắng"
+  },
+  "英雄": {
+    "key": "英雄",
+    "en-us": "Heroes",
+    "id": "Hero",
+    "pt-br": "Heróis",
+    "vi": "Anh hùng"
+  },
+  "试用": {
+    "key": "试用",
+    "en-us": "Free trial",
+    "id": "Coba gratis",
+    "pt-br": "Teste grátis",
+    "vi": "Dùng thử"
+  },
+  "双倍领取": {
+    "key": "双倍领取",
+    "en-us": "2x Claim",
+    "id": "2x Klaim",
+    "pt-br": "Reivindicação x2",
+    "vi": "Nhận 2x"
+  },
+  "下一关": {
+    "key": "下一关",
+    "en-us": "Next level",
+    "id": "Level berikutnya",
+    "pt-br": "Próximo nível",
+    "vi": "Màn sau"
+  },
+  "武器": {
+    "key": "武器",
+    "en-us": "Weapon",
+    "id": "Senjata",
+    "pt-br": "Arma",
+    "vi": "Vũ khí"
+  },
+  "超绝": {
+    "key": "超绝",
+    "en-us": "Legendary",
+    "id": "Legendaris",
+    "pt-br": "Lendária",
+    "vi": "Siêu tuyệt"
+  },
+  "闪电风暴": {
+    "key": "闪电风暴",
+    "en-us": "Lightning Storm",
+    "id": "Badai Petir",
+    "pt-br": "Tempestade de Raios",
+    "vi": "Bão Sấm Sét"
+  },
+  "连续登录": {
+    "key": "连续登录",
+    "en-us": "Consecutive login",
+    "id": "Masuk berturut-turut",
+    "pt-br": "Login consecutivo",
+    "vi": "Đăng nhập liên tiếp"
+  },
+  "超强皮肤": {
+    "key": "超强皮肤",
+    "en-us": "Super Skin",
+    "id": "Skin Super",
+    "pt-br": "Superskin",
+    "vi": "Siêu skin" 
+  },
+  "获取%s金币": {
+    "key": "获取%s金币",
+    "en-us": "You got %s coins",
+    "id": "Kamu mendapat %s koin",
+    "pt-br": "Você ganhou %s moedas",
+    "vi": "Nhận %s xu"
+  },
+  "无法移动": {
+    "key": "无法移动",
+    "en-us": "Can't move like that",
+    "id": "Tidak bisa bergerak seperti itu",
+    "pt-br": "Não pode se mover assim",
+    "vi": "Không thể di chuyển"
+  },
+  "恭喜获得金币%s": {
+    "key": "恭喜获得金币%s",
+    "en-us": "Congrats! You got %s coins",
+    "id": "Selamat! Kamu mendapat %s koin",
+    "pt-br": "Parabéns! Você ganhou %s moedas",
+    "vi": "Chúc mừng bạn nhận %s xu"
+  },
+  "点击任意位置关闭": {
+    "key": "点击任意位置关闭",
+    "en-us": "Tap anywhere to close",
+    "id": "Ketuk di mana saja untuk menutup",
+    "pt-br": "Toque em qualquer lugar para fechar",
+    "vi": "Nhấn bất kỳ đâu để đóng"
+  }
+}

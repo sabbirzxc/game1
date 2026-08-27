@@ -1,0 +1,48 @@
+
+NPC6_spine.png
+size: 431,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G6_dabi1
+  rotate: true
+  xy: 311, 225
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+G6_dabi2
+  rotate: true
+  xy: 376, 382
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+G6_shenti
+  rotate: true
+  xy: 2, 2
+  size: 236, 238
+  orig: 236, 238
+  offset: 0, 0
+  index: -1
+G6_tou
+  rotate: true
+  xy: 242, 9
+  size: 214, 180
+  orig: 214, 180
+  offset: 0, 0
+  index: -1
+G6_xaiobi1
+  rotate: true
+  xy: 2, 240
+  size: 214, 307
+  orig: 220, 314
+  offset: 6, 0
+  index: -1
+G6_xaiobi2
+  rotate: false
+  xy: 311, 287
+  size: 63, 167
+  orig: 63, 167
+  offset: 0, 0
+  index: -1

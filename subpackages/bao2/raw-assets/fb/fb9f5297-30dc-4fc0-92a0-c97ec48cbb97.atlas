@@ -1,0 +1,146 @@
+
+NPC13_spine.png
+size: 829,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G13_dabi1
+  rotate: true
+  xy: 356, 2
+  size: 75, 117
+  orig: 75, 117
+  offset: 0, 0
+  index: -1
+G13_dabi2
+  rotate: true
+  xy: 570, 3
+  size: 95, 130
+  orig: 95, 130
+  offset: 0, 0
+  index: -1
+G13_datui1
+  rotate: true
+  xy: 760, 60
+  size: 57, 49
+  orig: 58, 51
+  offset: 1, 2
+  index: -1
+G13_datui2
+  rotate: true
+  xy: 702, 49
+  size: 68, 56
+  orig: 68, 59
+  offset: 0, 3
+  index: -1
+G13_dun
+  rotate: false
+  xy: 2, 39
+  size: 118, 241
+  orig: 118, 242
+  offset: 0, 0
+  index: -1
+G13_shenti
+  rotate: false
+  xy: 122, 65
+  size: 180, 215
+  orig: 180, 215
+  offset: 0, 0
+  index: -1
+G13_tou
+  rotate: true
+  xy: 304, 79
+  size: 201, 197
+  orig: 206, 198
+  offset: 3, 0
+  index: -1
+G13_xaiobi2
+  rotate: false
+  xy: 503, 100
+  size: 101, 180
+  orig: 101, 180
+  offset: 0, 0
+  index: -1
+G13_xaiotui2
+  rotate: true
+  xy: 606, 103
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+G13_xiaobi1
+  rotate: false
+  xy: 702, 200
+  size: 125, 80
+  orig: 125, 84
+  offset: 0, 3
+  index: -1
+G13_xiaotui1
+  rotate: false
+  xy: 475, 2
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1
+Magic (1)
+  rotate: false
+  xy: 208, 5
+  size: 72, 58
+  orig: 160, 160
+  offset: 46, 7
+  index: -1
+Magic (2)
+  rotate: false
+  xy: 282, 6
+  size: 72, 57
+  orig: 160, 160
+  offset: 66, 10
+  index: -1
+Magic (3)
+  rotate: false
+  xy: 135, 2
+  size: 71, 61
+  orig: 160, 160
+  offset: 70, 11
+  index: -1
+Magic (4)
+  rotate: false
+  xy: 41, 5
+  size: 46, 32
+  orig: 160, 160
+  offset: 53, 23
+  index: -1
+Magic (5)
+  rotate: false
+  xy: 606, 205
+  size: 91, 75
+  orig: 160, 160
+  offset: 55, 6
+  index: -1
+Magic (6)
+  rotate: false
+  xy: 685, 119
+  size: 123, 79
+  orig: 160, 160
+  offset: 23, 11
+  index: -1
+Magic (7)
+  rotate: true
+  xy: 89, 10
+  size: 27, 44
+  orig: 160, 160
+  offset: 120, 42
+  index: -1
+Magic (8)
+  rotate: true
+  xy: 702, 2
+  size: 45, 68
+  orig: 160, 160
+  offset: 20, 26
+  index: -1
+Magic (9)
+  rotate: false
+  xy: 2, 2
+  size: 37, 35
+  orig: 160, 160
+  offset: 21, 60
+  index: -1

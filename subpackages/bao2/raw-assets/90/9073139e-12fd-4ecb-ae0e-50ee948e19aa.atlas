@@ -1,0 +1,125 @@
+
+NPC1_spine.png
+size: 720,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack1_1
+  rotate: true
+  xy: 2, 231
+  size: 292, 231
+  orig: 299, 241
+  offset: 4, 7
+  index: -1
+Attack1_2
+  rotate: true
+  xy: 235, 244
+  size: 279, 167
+  orig: 299, 241
+  offset: 17, 70
+  index: -1
+Attack1_3
+  rotate: true
+  xy: 404, 265
+  size: 258, 148
+  orig: 299, 241
+  offset: 38, 90
+  index: -1
+Attack1_4
+  rotate: true
+  xy: 554, 204
+  size: 185, 148
+  orig: 299, 241
+  offset: 110, 90
+  index: -1
+Attack1_5
+  rotate: true
+  xy: 552, 140
+  size: 62, 148
+  orig: 299, 241
+  offset: 234, 90
+  index: -1
+G1_dabi1
+  rotate: true
+  xy: 452, 11
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+G1_dabi2
+  rotate: false
+  xy: 536, 56
+  size: 74, 82
+  orig: 78, 90
+  offset: 4, 8
+  index: -1
+G1_datui1
+  rotate: false
+  xy: 415, 200
+  size: 36, 42
+  orig: 36, 43
+  offset: 0, 1
+  index: -1
+G1_datui2
+  rotate: false
+  xy: 415, 10
+  size: 35, 44
+  orig: 39, 44
+  offset: 1, 0
+  index: -1
+G1_pigu
+  rotate: false
+  xy: 404, 244
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+G1_shenti
+  rotate: false
+  xy: 415, 56
+  size: 119, 142
+  orig: 119, 142
+  offset: 0, 0
+  index: -1
+G1_tou
+  rotate: true
+  xy: 249, 11
+  size: 231, 164
+  orig: 231, 164
+  offset: 0, 0
+  index: -1
+G1_weijin
+  rotate: false
+  xy: 612, 2
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+G1_xiaobi1
+  rotate: true
+  xy: 2, 22
+  size: 207, 245
+  orig: 207, 245
+  offset: 0, 0
+  index: -1
+G1_xiaobi2
+  rotate: true
+  xy: 458, 200
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+G1_xiaotui1
+  rotate: true
+  xy: 612, 74
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+G1_xiaotui2
+  rotate: true
+  xy: 554, 391
+  size: 132, 164
+  orig: 132, 164
+  offset: 0, 0
+  index: -1

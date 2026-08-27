@@ -1,0 +1,118 @@
+
+NPC4_spine.png
+size: 466,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G4_dabi1
+  rotate: false
+  xy: 187, 48
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+G4_dabi2
+  rotate: false
+  xy: 150, 9
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+G4_pijian
+  rotate: false
+  xy: 2, 69
+  size: 183, 111
+  orig: 183, 115
+  offset: 0, 4
+  index: -1
+G4_shenti
+  rotate: false
+  xy: 236, 290
+  size: 202, 225
+  orig: 202, 225
+  offset: 0, 0
+  index: -1
+G4_tou
+  rotate: false
+  xy: 236, 117
+  size: 165, 171
+  orig: 167, 173
+  offset: 0, 2
+  index: -1
+G4_xiaobi1
+  rotate: false
+  xy: 2, 182
+  size: 232, 333
+  orig: 232, 333
+  offset: 0, 0
+  index: -1
+G4_xiaobi2
+  rotate: false
+  xy: 403, 119
+  size: 59, 96
+  orig: 61, 96
+  offset: 2, 0
+  index: -1
+Magic (1)
+  rotate: false
+  xy: 2, 9
+  size: 72, 58
+  orig: 160, 160
+  offset: 46, 7
+  index: -1
+Magic (2)
+  rotate: false
+  xy: 76, 10
+  size: 72, 57
+  orig: 160, 160
+  offset: 66, 10
+  index: -1
+Magic (3)
+  rotate: true
+  xy: 403, 217
+  size: 71, 61
+  orig: 160, 160
+  offset: 70, 11
+  index: -1
+Magic (4)
+  rotate: false
+  xy: 230, 2
+  size: 46, 32
+  orig: 160, 160
+  offset: 53, 23
+  index: -1
+Magic (5)
+  rotate: true
+  xy: 359, 24
+  size: 91, 75
+  orig: 160, 160
+  offset: 55, 6
+  index: -1
+Magic (6)
+  rotate: false
+  xy: 234, 36
+  size: 123, 79
+  orig: 160, 160
+  offset: 23, 11
+  index: -1
+Magic (7)
+  rotate: false
+  xy: 436, 73
+  size: 27, 44
+  orig: 160, 160
+  offset: 120, 42
+  index: -1
+Magic (8)
+  rotate: false
+  xy: 187, 112
+  size: 45, 68
+  orig: 160, 160
+  offset: 20, 26
+  index: -1
+Magic (9)
+  rotate: true
+  xy: 193, 9
+  size: 37, 35
+  orig: 160, 160
+  offset: 21, 60
+  index: -1

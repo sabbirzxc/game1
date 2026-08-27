@@ -1,0 +1,132 @@
+
+NPC3_spine.png
+size: 1023,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack1_1
+  rotate: false
+  xy: 260, 326
+  size: 292, 231
+  orig: 299, 241
+  offset: 4, 7
+  index: -1
+Attack1_2
+  rotate: false
+  xy: 260, 157
+  size: 279, 167
+  orig: 299, 241
+  offset: 17, 70
+  index: -1
+Attack1_3
+  rotate: false
+  xy: 216, 7
+  size: 258, 148
+  orig: 299, 241
+  offset: 38, 90
+  index: -1
+Attack1_4
+  rotate: false
+  xy: 476, 2
+  size: 185, 148
+  orig: 299, 241
+  offset: 110, 90
+  index: -1
+Attack1_5
+  rotate: false
+  xy: 663, 2
+  size: 62, 148
+  orig: 299, 241
+  offset: 234, 90
+  index: -1
+G3_dabi1
+  rotate: true
+  xy: 835, 212
+  size: 96, 113
+  orig: 96, 117
+  offset: 0, 0
+  index: -1
+G3_dabi2
+  rotate: false
+  xy: 727, 3
+  size: 106, 147
+  orig: 106, 149
+  offset: 0, 0
+  index: -1
+G3_dao1
+  rotate: true
+  xy: 2, 4
+  size: 264, 212
+  orig: 264, 212
+  offset: 0, 0
+  index: -1
+G3_dao2
+  rotate: false
+  xy: 554, 333
+  size: 281, 224
+  orig: 281, 224
+  offset: 0, 0
+  index: -1
+G3_datui1
+  rotate: false
+  xy: 915, 24
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+G3_datui2
+  rotate: false
+  xy: 835, 11
+  size: 78, 99
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+G3_pifeng
+  rotate: false
+  xy: 2, 270
+  size: 256, 287
+  orig: 256, 287
+  offset: 0, 0
+  index: -1
+G3_shenti
+  rotate: false
+  xy: 837, 310
+  size: 179, 247
+  orig: 179, 247
+  offset: 0, 0
+  index: -1
+G3_tou
+  rotate: true
+  xy: 554, 152
+  size: 179, 213
+  orig: 179, 222
+  offset: 0, 9
+  index: -1
+G3_xaiobi1
+  rotate: true
+  xy: 769, 212
+  size: 119, 64
+  orig: 123, 64
+  offset: 0, 0
+  index: -1
+G3_xaiobi2
+  rotate: false
+  xy: 835, 112
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+G3_xaiotui1
+  rotate: true
+  xy: 950, 223
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+G3_xiaotui2
+  rotate: false
+  xy: 942, 138
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
